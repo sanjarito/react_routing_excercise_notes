@@ -1,0 +1,10 @@
+.FolderPage-container{
+  display:flex;
+}
+
+.folder_title_vertical {
+  float:left;
+  width:100px;
+  text-align: center;
+
+}

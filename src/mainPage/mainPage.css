@@ -1,0 +1,53 @@
+.mainPage-container{
+  display:flex;
+ justify-content: space-around;
+}
+
+.right_container{
+  display:flex;
+  flex-direction:column;
+  flex: 2 1 auto;
+  padding:10px;
+}
+
+.left_container {
+  flex: 1 1 auto;
+  padding:10px;
+  left: 50%;
+  list-style-type: none;
+
+}
+
+.note_container {
+  border: 1px solid black;
+  height: 43px;
+  list-style-type: none;
+  padding: 16px;
+
+}
+
+.note_title {
+  display:block;
+}
+
+.folder_title {
+  text-align: center;
+  border:1px solid black;
+  height:40px
+}
+
+.folder_name {
+  padding:3px;
+  text-decoration: none;
+}
+
+.add_folder_btn {
+  text-align: center;
+  border:1px solid black;
+  height:40px;
+  width: 100%;
+}
+
+.delete_Note_btn {
+  float:right;
+}

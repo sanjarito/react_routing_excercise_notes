@@ -1,0 +1,10 @@
+.folder_name_vertical {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+.note_content {
+  margin-top: 25px;
+  padding:5px;
+
+}
